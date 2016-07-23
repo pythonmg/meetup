@@ -4,6 +4,8 @@
 <details>
 <summary>**Dia 23/07/2016**</summary>
 
+Local: Guaja casa
+
 [Escrevendo código altamente escalável]()
 
 [Introdução ao Python]()
