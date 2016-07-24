@@ -8,6 +8,6 @@ Local: Guaja casa
 
 [Escrevendo código altamente escalável]()
 
-[Introdução ao Python]()
+[Introdução ao Python](https://github.com/python-mg/meetup/blob/master/23_07_2016/Introdu%C3%A7%C3%A3o%20ao%20Python.pdf)
 
 </details>
