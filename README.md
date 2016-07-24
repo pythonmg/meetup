@@ -11,6 +11,7 @@ Local: Guaja casa
 [Escrevendo código altamente escalável]()
 
 [Introdução ao Python](https://speakerdeck.com/cassiobotaro/introducao-ao-pytho://speakerdeck.com/cassiobotaro/introducao-ao-python)
+
 **Lightning talks**
 
 [Python Sudeste](http://pythonsudeste.org/)
