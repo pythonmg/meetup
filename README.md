@@ -8,7 +8,7 @@ Local: Guaja casa
 
 **Palestras:**
 
-[Escrevendo código altamente escalável]()
+[Não escale servidores, escale código!](http://slides.com/ervilis/nao-escale-servidores-escale-codigo#/)
 
 [Introdução ao Python](https://speakerdeck.com/cassiobotaro/introducao-ao-pytho://speakerdeck.com/cassiobotaro/introducao-ao-python)
 
