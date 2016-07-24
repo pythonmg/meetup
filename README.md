@@ -2,7 +2,7 @@
 :loudspeaker: Apresentações e códigos apresentados e disponibilizados pelos palestrantes.
 
 <details>
-<summary>**Dia 23/07/2016**</summary>
+<summary>**24 º Meetup Python BH - 23/07/2016**</summary>
 
 Local: Guaja casa
 
