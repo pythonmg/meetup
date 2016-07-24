@@ -6,8 +6,23 @@
 
 Local: Guaja casa
 
+**Palestras:**
+
 [Escrevendo código altamente escalável]()
 
-[Introdução ao Python](https://github.com/python-mg/meetup/blob/master/23_07_2016/Introdu%C3%A7%C3%A3o%20ao%20Python.pdf)
+[Introdução ao Python](https://speakerdeck.com/cassiobotaro/introducao-ao-pytho://speakerdeck.com/cassiobotaro/introducao-ao-python)
+**Lightning talks**
+
+[Python Sudeste](http://pythonsudeste.org/)
+
+[Vim-Bootstrap](http://vim-bootstrap.com/)
+
+[Vimbook](https://github.com/cassiobotaro/vimbook)
+
+[exporters](https://github.com/scrapinghub/exporters)
+
+**Outros**
+
+[uvloop](https://github.com/MagicStack/uvloop)
 
 </details>
