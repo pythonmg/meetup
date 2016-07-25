@@ -10,7 +10,7 @@ Local: Guaja casa
 
 [Não escale servidores, escale código!](http://slides.com/ervilis/nao-escale-servidores-escale-codigo#/)
 
-[Introdução ao Python](https://speakerdeck.com/cassiobotaro/introducao-ao-pytho://speakerdeck.com/cassiobotaro/introducao-ao-python)
+[Introdução ao Python](https://speakerdeck.com/cassiobotaro/introducao-ao-python)
 
 **Lightning talks**
 
