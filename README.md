@@ -57,7 +57,7 @@ Oportunidade para freelancer django - lucararruda @ gmail
 
 [SPED Auditor](http://spedauditor.com.br)
 
-[Python Challenge](https://cassiobotaro.github.io/)
+[Python Challenge](https://cassiobotaro.github.io/armadilha-de-nomes-em-variaveis-de-funcoes.html#armadilha-de-nomes-em-variaveis-de-funcoes)
 
 Tem startup em BH? - pedalmeilda @ gmail
 
