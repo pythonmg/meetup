@@ -53,7 +53,7 @@ Local: Outbound Market
 
 Oportunidade para freelancer django - lucararruda @ gmail
 
-![Alda Rocha](https://github.com/pythonmg/meetup/images/alda_rocha.png "Alda Rocha")
+![Alda Rocha](https://github.com/pythonmg/meetup/blob/master/images/alda_rocha.png "Alda Rocha")
 
 [SPED Auditor](http://spedauditor.com.br)
 
