@@ -39,7 +39,7 @@ Local: Outbound Market
 
 [Introdução ao Phoenix framework](http://slides.com/arthurbragaalfredo/introducao-ao-phoenix-framework#/)
 
-[Usando GIT LFS (Large File Storage)]()
+[Usando GIT LFS (Large File Storage)](http://slides.com/jeanoliveirarodrigues/git-lfs#/)
 
 [React.js para pensar além do Ruby](http://www.slideshare.net/adimircolen/react-para-pensar-alm-do-ruby)
 
