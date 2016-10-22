@@ -72,7 +72,7 @@ Local: Sede App Prova
 
 [Dicas de Carreira para Desenvolvedores de Software](http://slides.com/andrealmar/dicas-carreira#/)
 
-[Programando Robôs de Negociação para Forex]()
+[Programando Robôs de Negociação para Forex](https://www.dropbox.com/s/rhj3c8b3za3yr7j/Desenvolvendo%20Bots%20para%20Forex.ppsx?dl=0)
 
 [Tutorial Phoenix]()
 
