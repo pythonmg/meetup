@@ -62,3 +62,33 @@ Oportunidade para freelancer django - lucararruda @ gmail
 Tem startup em BH? - pedalmeilda @ gmail
 
 </details>
+
+<details>
+<summary>**26º Meetup Python BH - 11º Meetup Rails MG - 22/10/2016**</summary>
+
+Local: Sede App Prova
+
+**Palestras:**
+
+[Dicas de Carreira para Desenvolvedores de Software](http://slides.com/andrealmar/dicas-carreira#/)
+
+[Programando Robôs de Negociação para Forex]()
+
+[Tutorial Phoenix]()
+
+**Lightning talks**
+
+[Vim-Bootstrap](http://vim-bootstrap.com/)
+
+[APP Prova](http://appprova.com.br/)
+
+[Trailblazer](https://github.com/trailblazer/trailblazer)
+
+[XSloc](http://www.xsloc.com/)
+
+[Dojo Minas](https://slides.com/andrealmar/dojominas)
+
+[Python Brasil 2016](https://slides.com/andrealmar/dicas-carreira)
+
+
+</details>
