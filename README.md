@@ -64,7 +64,7 @@ Tem startup em BH? - pedalmeilda @ gmail
 </details>
 
 <details>
-<summary>**26º Meetup Python BH - 11º Meetup Rails MG - 22/10/2016**</summary>
+<summary>**26º Meetup Python BH & 11º Meetup Rails MG - 22/10/2016**</summary>
 
 Local: Sede App Prova
 
@@ -88,7 +88,7 @@ Local: Sede App Prova
 
 [Dojo Minas](https://slides.com/andrealmar/dojominas)
 
-[Python Brasil 2016](https://slides.com/andrealmar/dicas-carreira)
+[Python Brasil 2016](http://slides.com/ervilis/deck-3)
 
 
 </details>
