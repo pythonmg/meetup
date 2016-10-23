@@ -74,7 +74,7 @@ Local: Sede App Prova
 
 [Programando Robôs de Negociação para Forex](https://www.dropbox.com/s/rhj3c8b3za3yr7j/Desenvolvendo%20Bots%20para%20Forex.ppsx?dl=0)
 
-[Tutorial Phoenix]()
+[Tutorial Phoenix](https://speakerdeck.com/arthurbragaa/tutorial-phoenix-framework-v2)
 
 **Lightning talks**
 
