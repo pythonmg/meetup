@@ -92,3 +92,20 @@ Local: Sede App Prova
 
 
 </details>
+
+<details>
+<summary>**27 º Meetup Python BH & 11º Meetup Rails MG - 19/11/2016**</summary>
+
+Local: Puc Minas
+
+**Palestras:**
+
+[Machine Learning com Anaconda]()
+
+[Um Python 3 para a todos governar](https://speakerdeck.com/cassiobotaro/27o-meetup-python-mg-and-12o-meetup-rails-mg)
+
+**Coding Dojo**
+
+[FizzBuzz Ruby]()
+
+</details>
