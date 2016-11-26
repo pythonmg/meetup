@@ -94,7 +94,7 @@ Local: Sede App Prova
 </details>
 
 <details>
-<summary>**27 º Meetup Python BH & 11º Meetup Rails MG - 19/11/2016**</summary>
+<summary>**27 º Meetup Python BH & 12º Meetup Rails MG - 19/11/2016**</summary>
 
 Local: Puc Minas
 
