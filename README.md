@@ -106,6 +106,6 @@ Local: Puc Minas
 
 **Coding Dojo**
 
-[FizzBuzz Ruby]()
+[FizzBuzz Ruby](coding-dojo/19112016)
 
 </details>
