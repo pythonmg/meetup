@@ -100,7 +100,7 @@ Local: Puc Minas
 
 **Palestras:**
 
-[Machine Learning com Anaconda]()
+[Machine Learning com Anaconda](https://github.com/MarcusWiilo/Machine-Learning/tree/master/Machine%20Learning%20com%20Anaconda)
 
 [Um Python 3 para a todos governar](https://speakerdeck.com/cassiobotaro/27o-meetup-python-mg-and-12o-meetup-rails-mg)
 
