@@ -1,4 +1,3 @@
-B
 # Meetup
 :loudspeaker: Apresentações e códigos apresentados e disponibilizados pelos palestrantes.
 
