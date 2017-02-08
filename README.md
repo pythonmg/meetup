@@ -109,3 +109,20 @@ Local: Puc Minas
 [FizzBuzz Ruby](coding-dojo/19112016)
 
 </details>
+
+<details>
+<summary>**28 º Meetup Python BH & 13º Meetup Rails MG - 21/01/2017**</summary>
+
+Local: BuscarID
+
+**Palestras:**
+
+- [pytest](https://docs.google.com/presentation/d/1JA-qoXM4iNJ1b9O7Z-53SvdaODmDOE1QfpR3ygo2yVU)
+
+- Minha Jornada do C ao Python
+
+**Coding Dojo**
+
+- [TDD Ruby: Ano Bissexto](http://dojopuzzles.com/problemas/exibe/ano-bissexto/)
+
+</details>
