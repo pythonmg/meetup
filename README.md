@@ -2,7 +2,7 @@
 :loudspeaker: Apresentações e códigos apresentados e disponibilizados pelos palestrantes.
 
 <details>
-<summary>**24 º Meetup Python BH - 23/07/2016**</summary>
+<summary>24 º Meetup Python BH - 23/07/2016</summary>
 
 Local: Guaja casa
 
@@ -29,7 +29,7 @@ Local: Guaja casa
 </details>
 
 <details>
-<summary>**25º Meetup Python BH & 10º Meetup Rails MG  21/08/2016**</summary>
+<summary>25º Meetup Python BH & 10º Meetup Rails MG  21/08/2016</summary>
 
 Local: Outbound Market
 
@@ -64,7 +64,7 @@ Tem startup em BH? - pedalmeilda @ gmail
 </details>
 
 <details>
-<summary>**26º Meetup Python BH & 11º Meetup Rails MG - 22/10/2016**</summary>
+<summary>26º Meetup Python BH & 11º Meetup Rails MG - 22/10/2016</summary>
 
 Local: Sede App Prova
 
@@ -94,7 +94,7 @@ Local: Sede App Prova
 </details>
 
 <details>
-<summary>**27 º Meetup Python BH & 12º Meetup Rails MG - 19/11/2016**</summary>
+<summary>27 º Meetup Python BH & 12º Meetup Rails MG - 19/11/2016</summary>
 
 Local: Puc Minas
 
@@ -111,7 +111,7 @@ Local: Puc Minas
 </details>
 
 <details>
-<summary>**28 º Meetup Python BH & 13º Meetup Rails MG - 21/01/2017**</summary>
+<summary>28 º Meetup Python BH & 13º Meetup Rails MG - 21/01/2017</summary>
 
 Local: BuscarID
 
