@@ -126,3 +126,13 @@ Local: BuscarID
 - [TDD Ruby: Ano Bissexto](http://dojopuzzles.com/problemas/exibe/ano-bissexto/)
 
 </details>
+<details>
+<summary>29º Meetup Python BH & 14º Meetup Rails MG - 11/02/2017</summary>
+
+Local: Thoughtworks
+
+**Palestras:**
+
+**Lightning talks**
+
+</details>
