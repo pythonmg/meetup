@@ -117,13 +117,13 @@ Local: BuscarID
 
 **Palestras:**
 
-- [pytest](https://docs.google.com/presentation/d/1JA-qoXM4iNJ1b9O7Z-53SvdaODmDOE1QfpR3ygo2yVU)
+[pytest](https://docs.google.com/presentation/d/1JA-qoXM4iNJ1b9O7Z-53SvdaODmDOE1QfpR3ygo2yVU)
 
-- Minha Jornada do C ao Python
+Minha Jornada do C ao Python
 
 **Coding Dojo**
 
-- [TDD Ruby: Ano Bissexto](http://dojopuzzles.com/problemas/exibe/ano-bissexto/)
+[TDD Ruby: Ano Bissexto](http://dojopuzzles.com/problemas/exibe/ano-bissexto/)
 
 </details>
 <details>
@@ -135,4 +135,37 @@ Local: Thoughtworks
 
 **Lightning talks**
 
+</details>
+<details>
+<summary>30º Meetup Python BH & 15º Meetup Rails MG - 18/03/2017</summary>
+
+Local: AppProva
+
+**Palestras:**
+
+[from python import gopher](https://goo.gl/7aWV9f)
+
+[apartament 101]()
+
+**Lightning talks**
+
+[FAZ makerspace](http://fazmakerspace.com.br/)
+
+[Instagram Faz](https://www.instagram.com/fazmakerspace/)
+
+[vim-bootstrap slides](https://speakerdeck.com/cassiobotaro/vim-bootstrap)
+
+[vim-bootstrap site](http://vim-bootstrap.com/)
+
+[Same content. Diferent words.](https://speakerdeck.com/tmylk/same-content-different-words)
+
+[Linode](https://www.linode.com/)
+
+[AWS](https://aws.amazon.com/pt/)
+
+[Embratel cloud](http://portal.embratel.com.br/cloud/index.php)
+
+[Cloud at cost](http://cloudatcost.com/)
+
+[Digital Ocean](https://www.digitalocean.com/)
 </details>
