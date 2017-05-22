@@ -183,7 +183,7 @@ Local: AppProva
 
 [Não é apenas Futebol](https://github.com/cassiobotaro/sentibol/blob/master/nao_apenas_futebol.pdf)
 
-[Ruby vs Python]()
+[Ruby vs Python](https://speakerdeck.com/lucasarruda/ruby-ou-python)
 
 **Lightning talks**
 
