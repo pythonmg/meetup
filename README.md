@@ -174,3 +174,23 @@ Local: AppProva
 [FizzBuzz Python](coding-dojo/18032017)
 
 </details>
+<details>
+<summary>31º Meetup Python BH & 16º Meetup Rails MG - 20/05/2017</summary>
+
+Local: AppProva
+
+**Palestras:**
+
+[Não é apenas Futebol](https://github.com/cassiobotaro/sentibol/blob/master/nao_apenas_futebol.pdf)
+
+[Ruby vs Python]()
+
+**Lightning talks**
+
+
+
+**Coding Dojo**
+
+[pizza](coding-dojo/)
+
+</details>
