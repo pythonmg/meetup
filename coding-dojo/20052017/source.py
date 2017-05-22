@@ -29,19 +29,19 @@ def verifica_perfil(anfitriao, funcionarios):
 
 #  =)
 
-- pessoas novas++
-- testes+
-- boas praticas 
-- brainstorming
-- trabalho em equipe+
-- pytest++
-- python
-- participação+
+# - pessoas novas++
+# - testes+
+# - boas praticas 
+# - brainstorming
+# - trabalho em equipe+
+# - pytest++
+# - python
+# - participação+
 
 # =(
 
-- não resolveu o problema
-- mais tempo pro dojo++
-- juiz pra controlar o tempo
-- problema++
-- mais tempo pra discutir o problema
+# - não resolveu o problema
+# - mais tempo pro dojo++
+# - juiz pra controlar o tempo
+# - problema++
+# - mais tempo pra discutir o problema
