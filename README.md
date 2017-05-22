@@ -187,7 +187,19 @@ Local: AppProva
 
 **Lightning talks**
 
+[Python Brasil 2017](http://2017.pythonbrasil.org.br/)
 
+[Dojo Minas](http://dojominas.org/)
+
+[Open source](https://github.com/)
+
+[AppProva](http://appprova.com.br/)
+
+[click](http://click.pocoo.org/5/)
+
+[dotenv](https://github.com/theskumar/python-dotenv)
+
+[honcho](https://github.com/nickstenning/honcho)
 
 **Coding Dojo**
 
