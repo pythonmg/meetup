@@ -206,3 +206,49 @@ Local: AppProva
 [pizza](coding-dojo/20052017)
 
 </details>
+
+<details>
+<summary> 32º Meetup Python BH - 17/06/2017</summary>
+
+Local: Tivit
+
+**Palestras:**
+
+[Git Workflow - Uma modelagem de sucesso](http://nvie.com/posts/a-successful-git-branching-model/)
+
+[Startups, do Insight ao "unicórnio", como uma startup funciona]()
+
+**Lightning talks**
+
+[Python Brasil 13](http://2017.pythonbrasil.org.br/)
+
+[Tivit](https://tivit.com/)
+
+[Não seja esse cara](https://github.com/avelino/awesome-go/pull/950)
+
+[libcloud](https://libcloud.apache.org/)
+
+[One Cloud](https://onecloudportal.com.br/)
+
+[Lean Startup](https://www.amazon.com.br/dp/0989200507/ref=asc_df_09892005075028114?smid=A1ZZFT5FULY4LN&tag=goog0ef-20&linkCode=asn&creative=380341&creativeASIN=0989200507)
+[Zenhub](https://www.zenhub.com/)
+
+[Aurelia](http://aurelia.io/)
+
+[AppRunner](http://apprunner.cloud/)
+
+[Steem](https://steem.io/)
+
+[Glassdoor](https://www.glassdoor.com/index.htm)
+
+[Asciinema](https://asciinema.org/)
+
+[Quorum](https://www.jpmorgan.com/country/BR/pt/Quorum)
+
+[IPFS](https://ipfs.io/)
+
+[Sia Tech](http://sia.tech/)
+
+[Storj](https://storj.io/)
+
+</details>
